@@ -5,3 +5,4 @@ __pycache__/
 *.dir
 *.ok
 ok
+tests/
